@@ -1,0 +1,12 @@
+{
+  "name": "Cheeseology",
+  "displayName": "Cheeseology",
+  "expo": {
+    "name": "Cheeseology",
+    "slug": "Cheeseology",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
